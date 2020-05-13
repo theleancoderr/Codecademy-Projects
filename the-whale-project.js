@@ -1,3 +1,4 @@
+// Practice for loops and Array
 const input = 'turpentine and turtles';
 const vowels = ['a' ,'e', 'i', 'o', 'u'];
 let resultArray = [];
