@@ -1,3 +1,5 @@
+// Practicing Conditonal and Loops
+
 const getUserChoice = userInput => {
   userInput = userInput.toLowerCase();
   if(userInput === 'rock') {
