@@ -1,4 +1,4 @@
-// Practising JavaScript Classes here
+// Practising Classes here
 class Media {
   constructor(title){
     this._title = title;
