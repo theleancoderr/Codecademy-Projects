@@ -1,3 +1,5 @@
+// Practise for modules and string manipulation
+
 export function countCharacter(inputString, inputCharacter) {
   let count = 0;
   let string = inputString.toLowerCase();
